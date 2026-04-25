@@ -268,9 +268,9 @@
 
   </g>
 
-  <!-- Hi, I'm Ishan -->
+  <!-- info -->
   <g transform="translate(10, 0)" class="msg-1 bubble">
-    <rect width="170" height="42" rx="18.0355" />
+    <rect width="185" height="42" rx="18.0355" />
     <text x="15" y="27"> 哈喽，我是叻叻猪🐖 </text>
   </g>
 
@@ -292,9 +292,9 @@
 
   </g>
 
-  <!-- From Columbus... -->
+  <!-- 封心锁爱 -->
   <g transform="translate(10, 48)" class="msg-2">
-    <rect width="420" height="66.1302" rx="18.0355" class="bubble" />
+    <rect width="160" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27"> 东莞理工学院 </text>
     <text x="15" y="50"> 高考六百八 </text>
   </g>
@@ -317,9 +317,9 @@
 
   </g>
 
-  <!-- Work ... -->
+  <!-- 高考加油 -->
   <g transform="translate(10, 120)" class="msg-3">
-    <rect width="380" height="66.1302" rx="18.0355" class="bubble" />
+    <rect width="170" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27"> 蓝神文好帅… </text>    
   </g>
 
@@ -342,18 +342,18 @@
 
   </g>
 
-  <!-- Thanks -->
+  <!-- 6 -->
   <g transform="translate(10, 240)" class="msg-5">
-    <rect width="440" height="42.1302" rx="18.0355" class="bubble" />
+    <rect width="260" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27"> 如果忽冷忽热的温柔 是你的借口 </text>    
   </g> 
 
 
 
 
-  <!-- Have a great... -->
+  <!-- 666 -->
   <g transform="translate(10, 336)" class="msg-6">
-    <rect width="550" height="42" rx="18.0355" class="bubble" />
+    <rect width="200" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27"> 那我宁愿对你从没认真过 </text>
   </g>
 </svg>
