@@ -353,7 +353,7 @@
 
   <!-- 666 -->
   <g transform="translate(10, 336)" class="msg-7">
-    <rect width="255" height="42" rx="18.0355" class="bubble" />
+    <rect width="254.9" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27"> 那我宁愿对你从没认真过⁠›﹏⁠‹ </text>
   </g>
 </svg>
