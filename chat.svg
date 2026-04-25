@@ -294,7 +294,7 @@
 
   <!-- 封心锁爱 -->
   <g transform="translate(10, 48)" class="msg-2">
-    <rect width="120" height="66.1302" rx="18.0355" class="bubble" />
+    <rect width="150" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27"> 东莞理工学院 </text>
     <text x="15" y="50"> 总分580 </text>
   </g>
@@ -353,7 +353,7 @@
 
   <!-- 666 -->
   <g transform="translate(10, 336)" class="msg-6">
-    <rect width="270" height="42" rx="18.0355" class="bubble" />
+    <rect width="255" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27"> 那我宁愿对你从没认真过⁠›﹏⁠‹ </text>
   </g>
 </svg>
