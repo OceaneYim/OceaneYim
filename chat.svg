@@ -343,7 +343,7 @@
   </g>
 
   <!-- 6 -->
-  <g transform="translate(10, 240)" class="msg-4">
+  <g transform="translate(10, 240)" class="msg-5">
     <rect width="281.5" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27"> 如果忽冷忽热的温柔 是你的借口 </text>    
   </g> 
@@ -352,7 +352,7 @@
 
 
   <!-- 666 -->
-  <g transform="translate(10, 336)" class="msg-5">
+  <g transform="translate(10, 336)" class="msg-6">
     <rect width="254.9" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27"> 那我宁愿对你从没认真过⁠›﹏⁠‹ </text>
   </g>
